@@ -1,6 +1,6 @@
 cask "dockfixer" do
-  version "1.0.1"
-  sha256 "4e91d58e814155a86aa8036e6fc36c243a25afd582ffa3afa91196bf5cc6eefe"
+  version "1.0.2"
+  sha256 "d517d9d79939598d2da3a28f0e5d9b507c16677441d57c6d2a00da29919bb6e3"
 
   url "https://github.com/ReppDen/dockfixer/releases/download/v#{version}/DockFixer-#{version}.zip"
   name "DockFixer"
